@@ -162,8 +162,39 @@ namespace Laba1
                                 break;
                             case 5:
                             {
+                                application.Selection.Find.Execute(templateStringList[i]);
+                                var range = application.Selection.Range;
+                                range.HighlightColorIndex = 0;
+
+                                string[] 
+                                    listRows=System.IO.File.ReadAllText(csvPath).Split("\r\n".ToCharArray(),
+                                        StringSplitOptions.RemoveEmptyEntries);
+
+                                string[] 
+                                    listTitle=listRows[0].Split(";,".ToCharArray(), 
+                                        StringSplitOptions.RemoveEmptyEntries);
+
+                                var wordTable = document.Tables.Add(range, listRows.Length, 
+                                    listTitle.Length);
+
+                                for (var k = 0; k < listTitle.Length; k++)
+                                {
+                                    wordTable.Cell( 1, k + 1).Range.Text = listTitle[k].ToString();
+                                }
+
+                                for (var j = 1; j < listRows.Length; j++)
+                                {
+                                    string[] 
+                                        listValues = listRows[j].Split(";,".ToCharArray(),
+                                            StringSplitOptions.RemoveEmptyEntries);
+                                    for (var k = 0; k < listValues.Length; k++)
+                                    {
+                                        wordTable.Cell(j + 1, k + 1).Range.Text = listValues[k].ToString();
+                                    }
+                                }
                             }
                                 break;
+
                         }
                     }
                 }

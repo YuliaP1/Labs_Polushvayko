@@ -14,12 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="345d56dc-8a5c-4b7a-bd39-adb02c69cd46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laba1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laba1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Laba1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +76,7 @@
       <updated>1611851369471</updated>
       <workItem from="1611851375887" duration="3673000" />
       <workItem from="1611855408037" duration="42000" />
-      <workItem from="1611855615682" duration="2738000" />
+      <workItem from="1611855615682" duration="3061000" />
     </task>
     <servers />
   </component>
