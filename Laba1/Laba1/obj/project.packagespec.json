@@ -29,6 +29,12 @@
   },
   "frameworks": {
     "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.Office.Interop.Word": {
+          "target": "Package",
+          "version": "[15.0.4797.1003, )"
+        }
+      },
       "imports": [
         "net461",
         "net462",

@@ -1,0 +1,15 @@
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.exe
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.deps.json
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.runtimeconfig.json
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.runtimeconfig.dev.json
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.dll
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.pdb
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Word.dll
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.csprojAssemblyReference.cache
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.AssemblyInfoInputs.cache
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.AssemblyInfo.cs
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.csproj.CopyComplete
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.dll
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.pdb
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.genruntimeconfig.cache
