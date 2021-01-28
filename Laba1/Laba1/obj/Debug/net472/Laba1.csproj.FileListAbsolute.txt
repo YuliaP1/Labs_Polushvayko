@@ -1,0 +1,11 @@
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\net472\Laba1.exe.config
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\net472\Laba1.exe
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\net472\Laba1.pdb
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\net472\Laba1.csprojAssemblyReference.cache
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\net472\Laba1.AssemblyInfoInputs.cache
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\net472\Laba1.AssemblyInfo.cs
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\net472\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\net472\Laba1.exe
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\net472\Laba1.pdb
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\bin\Debug\net472\Microsoft.Office.Interop.Word.dll
+C:\Users\User\Labs_Polushvayko\Laba1\Laba1\obj\Debug\net472\Laba1.csproj.CopyComplete
