@@ -41,7 +41,8 @@ namespace Laba1
                 "[*ссылка на следующий рисунок*]", ///2
                 "[*ссылка на предыдущий рисунок*]", ///3
                 "[*ссылка на таблицу*]", ///4
-                "[*таблица первая*]" ///5
+                "[*таблица первая*]", ///5
+                "[*код*]" ///6
             };
 
             var application = new Application();
@@ -127,7 +128,7 @@ namespace Laba1
                                     0, ref missing, replaceString, 2,
                                     ref missing, ref missing,
                                     ref missing, ref missing);
-                                
+
                                 paragraph.Range.HighlightColorIndex = wdNoHighlight;
                             }
                                 break;
@@ -141,7 +142,7 @@ namespace Laba1
                                     0, ref missing, replaceString, 2,
                                     ref missing, ref missing,
                                     ref missing, ref missing);
-                                
+
                                 paragraph.Range.HighlightColorIndex = wdNoHighlight;
                             }
                                 break;
@@ -156,7 +157,7 @@ namespace Laba1
                                     0, ref missing, replaceString, 2,
                                     ref missing, ref missing,
                                     ref missing, ref missing);
-                                
+
                                 paragraph.Range.HighlightColorIndex = wdNoHighlight;
                             }
                                 break;
@@ -166,25 +167,30 @@ namespace Laba1
                                 var range = application.Selection.Range;
                                 range.HighlightColorIndex = 0;
 
-                                string[] 
-                                    listRows=System.IO.File.ReadAllText(csvPath).Split("\r\n".ToCharArray(),
+                                string[]
+                                    listRows = System.IO.File.ReadAllText(csvPath).Split("\r\n".ToCharArray(),
                                         StringSplitOptions.RemoveEmptyEntries);
 
-                                string[] 
-                                    listTitle=listRows[0].Split(";,".ToCharArray(), 
+                                string[]
+                                    listTitle = listRows[0].Split(";,".ToCharArray(),
                                         StringSplitOptions.RemoveEmptyEntries);
 
-                                var wordTable = document.Tables.Add(range, listRows.Length, 
+                                var textForAdd = $"Таблица {_sectionNumber}.{_tableNumber}. Таблица из файла.";
+
+                                application.Selection.TypeText(textForAdd);
+                                range = application.Selection.Range;
+
+                                var wordTable = document.Tables.Add(range, listRows.Length,
                                     listTitle.Length);
 
                                 for (var k = 0; k < listTitle.Length; k++)
                                 {
-                                    wordTable.Cell( 1, k + 1).Range.Text = listTitle[k].ToString();
+                                    wordTable.Cell(1, k + 1).Range.Text = listTitle[k].ToString();
                                 }
 
                                 for (var j = 1; j < listRows.Length; j++)
                                 {
-                                    string[] 
+                                    string[]
                                         listValues = listRows[j].Split(";,".ToCharArray(),
                                             StringSplitOptions.RemoveEmptyEntries);
                                     for (var k = 0; k < listValues.Length; k++)
@@ -192,9 +198,25 @@ namespace Laba1
                                         wordTable.Cell(j + 1, k + 1).Range.Text = listValues[k].ToString();
                                     }
                                 }
+
+                                wordTable.Borders.InsideLineStyle = WdLineStyle.wdLineStyleSingle;
+                                wordTable.Borders.OutsideLineStyle = WdLineStyle.wdLineStyleSingle;
+
+                                wordTable.Borders.InsideLineWidth = WdLineWidth.wdLineWidth025pt;
+                                wordTable.Borders.OutsideLineWidth = WdLineWidth.wdLineWidth025pt;
                             }
                                 break;
+                            case 6:
+                            {
+                                application.Selection.Find.Execute(templateStringList[i]);
+                                var range = application.Selection.Range;
+                                range.HighlightColorIndex = 0;
 
+                                string sourceCode = System.IO.File.ReadAllText(@"C:\Users\User\Labs_Polushvayko\Laba1\Laba1\Program.cs");
+
+                                application.Selection.TypeText(sourceCode);
+                            }
+                                break;
                         }
                     }
                 }

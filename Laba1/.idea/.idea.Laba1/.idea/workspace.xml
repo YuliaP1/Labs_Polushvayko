@@ -14,7 +14,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="345d56dc-8a5c-4b7a-bd39-adb02c69cd46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laba1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laba1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Laba1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +81,7 @@
       <updated>1611851369471</updated>
       <workItem from="1611851375887" duration="3673000" />
       <workItem from="1611855408037" duration="42000" />
-      <workItem from="1611855615682" duration="3061000" />
+      <workItem from="1611855615682" duration="4786000" />
     </task>
     <servers />
   </component>
@@ -101,22 +106,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1860" height="62" key="GridCell.Tab.0.bottom" timestamp="1611858273781">
+    <state width="1860" height="62" key="GridCell.Tab.0.bottom" timestamp="1611860325148">
       <screen x="1920" y="4" width="1920" height="1040" />
     </state>
-    <state width="1860" height="62" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611858273781" />
-    <state width="1860" height="62" key="GridCell.Tab.0.center" timestamp="1611858273781">
+    <state width="1860" height="62" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611860325148" />
+    <state width="1860" height="62" key="GridCell.Tab.0.center" timestamp="1611860325148">
       <screen x="1920" y="4" width="1920" height="1040" />
     </state>
-    <state width="1860" height="62" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611858273781" />
-    <state width="1860" height="62" key="GridCell.Tab.0.left" timestamp="1611858273780">
+    <state width="1860" height="62" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611860325148" />
+    <state width="1860" height="62" key="GridCell.Tab.0.left" timestamp="1611860325148">
       <screen x="1920" y="4" width="1920" height="1040" />
     </state>
-    <state width="1860" height="62" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611858273780" />
-    <state width="1860" height="62" key="GridCell.Tab.0.right" timestamp="1611858273781">
+    <state width="1860" height="62" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611860325148" />
+    <state width="1860" height="62" key="GridCell.Tab.0.right" timestamp="1611860325148">
       <screen x="1920" y="4" width="1920" height="1040" />
     </state>
-    <state width="1860" height="62" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611858273781" />
+    <state width="1860" height="62" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611860325148" />
     <state x="2472" y="256" key="Rider.ProjectTemplateDialog.Size" timestamp="1611851368980">
       <screen x="1920" y="4" width="1920" height="1040" />
     </state>
