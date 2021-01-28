@@ -14,22 +14,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="345d56dc-8a5c-4b7a-bd39-adb02c69cd46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laba1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laba1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Laba1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laba1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/Laba1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/Laba1.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Laba1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/bin/Debug/netcoreapp3.1/Laba1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/bin/Debug/netcoreapp3.1/Laba1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/bin/Debug/netcoreapp3.1/Laba1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/bin/Debug/netcoreapp3.1/Laba1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/netcoreapp3.1/Laba1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/netcoreapp3.1/Laba1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/netcoreapp3.1/Laba1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/netcoreapp3.1/Laba1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/netcoreapp3.1/Laba1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/netcoreapp3.1/Laba1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/netcoreapp3.1/Laba1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/netcoreapp3.1/Laba1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/netcoreapp3.1/Laba1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/netcoreapp3.1/Laba1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/Laba1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Laba1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/bin/Debug/net472/Laba1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Laba1/obj/Debug/net472/Laba1.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8E1F9EA2-C135-442A-BCD3-02C7BCE1C26B/d1/d7cfa6eb/Selection.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,7 +81,7 @@
       <updated>1611851369471</updated>
       <workItem from="1611851375887" duration="3673000" />
       <workItem from="1611855408037" duration="42000" />
-      <workItem from="1611855615682" duration="932000" />
+      <workItem from="1611855615682" duration="2738000" />
     </task>
     <servers />
   </component>
@@ -113,22 +106,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1611856650068">
+    <state width="1860" height="62" key="GridCell.Tab.0.bottom" timestamp="1611858273781">
       <screen x="1920" y="4" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611856650068" />
-    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1611856650067">
+    <state width="1860" height="62" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611858273781" />
+    <state width="1860" height="62" key="GridCell.Tab.0.center" timestamp="1611858273781">
       <screen x="1920" y="4" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611856650067" />
-    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1611856650067">
+    <state width="1860" height="62" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611858273781" />
+    <state width="1860" height="62" key="GridCell.Tab.0.left" timestamp="1611858273780">
       <screen x="1920" y="4" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611856650067" />
-    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1611856650068">
+    <state width="1860" height="62" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611858273780" />
+    <state width="1860" height="62" key="GridCell.Tab.0.right" timestamp="1611858273781">
       <screen x="1920" y="4" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611856650068" />
+    <state width="1860" height="62" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1611858273781" />
     <state x="2472" y="256" key="Rider.ProjectTemplateDialog.Size" timestamp="1611851368980">
       <screen x="1920" y="4" width="1920" height="1040" />
     </state>
